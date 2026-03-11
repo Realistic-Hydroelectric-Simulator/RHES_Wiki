@@ -1,2 +1,2 @@
-# Temp-Name
-This is the offical wiki for Temp Name.
+# RHES wiki
+This is the offical wiki for RHES.
